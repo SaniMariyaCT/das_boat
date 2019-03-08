@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "spring.datasource.time-between-eviction-runs-millis",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.time-between-eviction-runs-millis'"
+  },
+  {
+    "name": "spring.datasource.min-evictable-idle-time-millis",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.min-evictable-idle-time-millis'"
+  },
+  {
+    "name": "spring.datasource.min-idle",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.min-idle'"
+  },
+  {
+    "name": "datasource.flyway.password",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.flyway.password'"
+  },
+  {
+    "name": "datasource.flyway.url",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.flyway.url'"
+  },
+  {
+    "name": "datasource.flyway.username",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.flyway.username'"
+  },
+  {
+    "name": "datasource.flyway.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.flyway.driver-class-name'"
+  }
+]}

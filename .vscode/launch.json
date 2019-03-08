@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DasBoatApplication",
+            "request": "launch",
+            "mainClass": "com.boat.dasboat.DasBoatApplication",
+            "projectName": "das-boat"
+        }
+    ]
+}
